@@ -218,8 +218,8 @@ h1:hover.header-link {
   border: 1px solid white;
   color: #ffffff;
   background-color: black;
-  margin-top: 5%;
-  margin-bottom: 5%;
+  margin-top: 4%;
+  margin-bottom: 4%;
   padding: 2.5%;
   font-size: 150%;
   font-weight: 800;
@@ -231,7 +231,7 @@ h1:hover.header-link {
 #audioBox {
   color: #ffffff;
   display: block;
-  margin-bottom: 5%;
+  margin-bottom: 3%;
 }
 
 label {

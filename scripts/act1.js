@@ -143,7 +143,7 @@ function init() {
     invert: true,
   });
   //effect.setSize(window.innerWidth * .9, window.innerHeight * .9);
-  effect.setSize(window.innerWidth, window.innerHeight * 1.25);
+  effect.setSize(window.innerWidth * 1.01, window.innerHeight * 1.21);
   effect.domElement.style.color = "white";
   effect.domElement.style.backgroundColor = "black";
   document.body.appendChild(effect.domElement);
